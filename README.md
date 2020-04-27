@@ -1,6 +1,8 @@
 # exercise
 exercise 1
 # ava 
+
+
 def sum_q(string):
     sum_all=0
     sum_1=0
@@ -13,8 +15,6 @@ def sum_q(string):
             chr = int(chr)
             sum_1 = sum_1 + chr
             
-           
-       
     return sum_all    
         
 string= "1234567q"  
